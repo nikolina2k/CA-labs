@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/PC/Desktop/CA/week13/ex1/simulation/modelsim
+valu_decoder
+Z1 !s110 1606438032
+!i10b 1
+!s100 1kMaE;V@GJmoS[bXY0Q^e1
+I93VH:GM4436:CR>YlRg5f2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1606433937
+8C:/Users/PC/Desktop/CA/week13/ex1/alu_decoder.v
+FC:/Users/PC/Desktop/CA/week13/ex1/alu_decoder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1606438032.000000
+!s107 C:/Users/PC/Desktop/CA/week13/ex1/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/PC/Desktop/CA/week13/ex1|C:/Users/PC/Desktop/CA/week13/ex1/alu_decoder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/PC/Desktop/CA/week13/ex1
+Z7 tCvgOpt 0
+vex1
+R1
+!i10b 1
+!s100 Q6nEJNfzTQQS7[4@kSn7O0
+I[En1ifH?MM;H=JhaGl8;V1
+R2
+R0
+w1606434029
+8C:/Users/PC/Desktop/CA/week13/ex1/ex1.v
+FC:/Users/PC/Desktop/CA/week13/ex1/ex1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/PC/Desktop/CA/week13/ex1/ex1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/PC/Desktop/CA/week13/ex1|C:/Users/PC/Desktop/CA/week13/ex1/ex1.v|
+!i113 1
+R5
+R6
+R7
+vhard_block
+R1
+!i10b 1
+!s100 3J0=7YP8_n9Cn=A@GNT:20
+IPMHGEK;GQcz4:^aen`aO:2
+R2
+R0
+w1606438017
+8ex1.vo
+Fex1.vo
+L0 1095
+R3
+r1
+!s85 0
+31
+!s108 1606438031.000000
+!s107 ex1.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|ex1.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
+vmain_decoder
+R1
+!i10b 1
+!s100 =P=>jGKnJX8W76WVf7TM_2
+IN=zGa?SjY4@ZDNQXiX1N83
+R2
+R0
+w1606434081
+8C:/Users/PC/Desktop/CA/week13/ex1/main_decoder.v
+FC:/Users/PC/Desktop/CA/week13/ex1/main_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/PC/Desktop/CA/week13/ex1/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/PC/Desktop/CA/week13/ex1|C:/Users/PC/Desktop/CA/week13/ex1/main_decoder.v|
+!i113 1
+R5
+R6
+R7
+vtestbench
+R1
+!i10b 1
+!s100 d3?j]U6MnK?C0SXoKaG990
+IMdBK<;jYEd^ElABQF@oG^0
+R2
+R0
+w1606434112
+8C:/Users/PC/Desktop/CA/week13/ex1/testbench.v
+FC:/Users/PC/Desktop/CA/week13/ex1/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/PC/Desktop/CA/week13/ex1/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/PC/Desktop/CA/week13/ex1|C:/Users/PC/Desktop/CA/week13/ex1/testbench.v|
+!i113 1
+R5
+R6
+R7
